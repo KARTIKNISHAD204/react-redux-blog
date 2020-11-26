@@ -1,0 +1,30 @@
+.onbanner {
+    width: 100%; background: #ab94df; color: rgb(206, 65, 65); 
+    min-height: 440px;
+    max-height: 440px;
+    align-items: center;
+    display:flex;
+    justify-content: space-around;    
+
+ }
+ .belowbanner {
+    width: 100%; background: #ab94df; color: rgb(206, 65, 65); 
+    min-height: 768px;
+    
+    display:flex;
+    justify-content: space-around;    
+
+ }
+ .layout{
+    width: 75%; background: #e1dfe7; color: rgb(206, 65, 65); 
+    min-height: inherit;
+    align-items: center;
+
+ }
+ .sidebar{
+    width: 25%; background: #bcc0c4; color: rgb(206, 65, 65); 
+    min-height: auto;
+    align-items: center;
+    padding : 20px 0 20px 0
+
+ }
